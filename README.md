@@ -44,43 +44,43 @@ https://gelecegiyazanlar.turkcell.com.tr/konu/swift-ile-ios-programlama
 
 ## Swift 103
 ### Nesne Tabanlı Programlama
-- [ ] CNesne Tabanlı Programlama Giris
-- [ ] Class Yapisi
-- [ ] Fields-Weak-Strong
-- [ ] Encapsulation
-- [ ] Fonksiyonlar
-- [ ] Fonksiyonlar Lab 1
-- [ ] Fonksiyonlarin Parametre Almasi
-- [ ] Fonksiyonlarin Geri Deger Döndürmesi-1
-- [ ] Fonksiyonlarin Geri Deger Döndürmesi-2
-- [ ] Fonksiyonlar Lab-2
-- [ ] Fonksiyon Overload
-- [ ] Closures
-- [ ] Fonksiyon Parametreler
-- [ ] Fonksiyon Döndürme
-- [ ] Fonksiyon Lab-3
-- [ ] Initialization
-- [ ] Class Lab
-- [ ] Struct Giris
-- [ ] Struct Lab
-- [ ] Struct Mutable
-- [ ] Static Degisken ve Fonksiyonlar
-- [ ] Enumeration
-- [ ] Kalitim Giris
-- [ ] Kalitim Initializer iliskisi
-- [ ] Kalitim Lab
-- [ ] Override
-- [ ] Protocol Kullanimi
-- [ ] Protocol Lab
-- [ ] Extension
-- [ ] Erisim Belirleyiciler
-- [ ] Otomatik Referans Sayaci
+- [x] Nesne Tabanlı Programlama Giris
+- [x] Class Yapisi
+- [x] Fields-Weak-Strong
+- [x] Encapsulation
+- [x] Fonksiyonlar
+- [x] Fonksiyonlar Lab 1
+- [x] Fonksiyonlarin Parametre Almasi
+- [x] Fonksiyonlarin Geri Deger Döndürmesi-1
+- [x] Fonksiyonlarin Geri Deger Döndürmesi-2
+- [x] Fonksiyonlar Lab-2
+- [x] Fonksiyon Overload
+- [x] Closures
+- [x] Fonksiyon Parametreler
+- [x] Fonksiyon Döndürme
+- [x] Fonksiyon Lab-3
+- [x] Initialization
+- [x] Class Lab
+- [x] Struct Giris
+- [x] Struct Lab
+- [x] Struct Mutable
+- [x] Static Degisken ve Fonksiyonlar
+- [x] Enumeration
+- [x] Kalitim Giris
+- [x] Kalitim Initializer iliskisi
+- [x] Kalitim Lab
+- [x] Override
+- [x] Protocol Kullanimi
+- [x] Protocol Lab
+- [x] Extension
+- [x] Erisim Belirleyiciler
+- [x] Otomatik Referans Sayaci
 ### ileri Swift
-- [ ] lleri Swift Giris
-- [ ] Guard
-- [ ] Error-Custom Error
-- [ ] Do Try Catch-Throw
-- [ ] Hata Yönetimi Lab
-- [ ] Dispatch Queue
-- [ ] Generic
-- [ ] Swift Egitim Sonu Degerlendirmesi
+- [x] lleri Swift Giris
+- [x] Guard
+- [x] Error-Custom Error
+- [x] Do Try Catch-Throw
+- [x] Hata Yönetimi Lab
+- [x] Dispatch Queue
+- [x] Generic
+- [x] Swift Egitim Sonu Degerlendirmesi
