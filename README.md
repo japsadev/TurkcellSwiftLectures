@@ -7,6 +7,7 @@ Resources:
 https://gelecegiyazanlar.turkcell.com.tr/konu/swift    
 https://gelecegiyazanlar.turkcell.com.tr/konu/swift-ile-ios-programlama
 
+# Swift Programlama Dili
 
 ## Swift 101
 ### Değişkenler ve Veri Tipleri
@@ -84,3 +85,72 @@ https://gelecegiyazanlar.turkcell.com.tr/konu/swift-ile-ios-programlama
 - [x] Dispatch Queue
 - [x] Generic
 - [x] Swift Egitim Sonu Degerlendirmesi
+
+
+# Swift ile iOS Programlama
+
+## Swift ile iOS Programlama 101 
+### iOS Giris
+- [ ] iOS Giris
+- [ ] iOS Mimarisi
+- [ ] Xcode Projesi Olusturma ve Calistirma
+- [ ] Simulator Olusturma ve Kurulumlari
+- [ ] Xcode Proje Dizini Genel Bakis
+### Widgets
+- [ ] Widgets Giris
+- [ ] Label TextField TextView
+- [ ] Button
+- [ ] Switch Segmented Controller
+- [ ] Slider Stepper
+- [ ] ImageView ScrollView WebView
+### Tasarim
+- [ ] Tasarim Giris
+- [ ] Widget Ekleme ve View Katmani
+- [ ] Constraint Kullanimi-1
+- [ ] Constraint Kullanimi-2
+- [ ] Constraint Lab-1
+- [ ] Constraint Lab-2
+- [ ] Coklu Dil Destegi
+- [ ] Assets Kullanimi
+- [ ] Assets Lab
+- [ ] LaunchScreen.storyboard Kullanimi
+- [ ] Custom Tasarim XIB
+- [ ] Ui Debug
+### Uygulama Calisma Yapısı
+- [ ] Uygulama Calisma Yapisi Giris
+- [ ] View Controller Yasam Döngüsü
+- [ ] Outlet-Action Kavramlar
+- [ ] Segue Kavrami-Tipleri
+- [ ] View Katmani-Segue Kullanimi
+### Controllers
+- [ ] Controllers Giris
+- [ ] Tabbar Controller
+- [ ] TableView Controller-CollectionView Controller
+- [ ] Kullanici Etkilesimleri
+- [ ] Kullanic Etkilesimleri Giris
+- [ ] Action Kullanimi
+- [ ] Outlet-Action Lab-1
+- [ ] Outlet-Action Lab-2
+- [ ] Alert Kullanimi
+- [ ] Alert Lab
+- [ ] Cok Ekran ile Calismak
+- [ ] Segue ile Ekran Arasi Gecisler
+- [ ] Identifier ile Ekranlar Arasi Gecis
+- [ ] Segue ile Veri Aktarimi
+- [ ] Identifier ile Veri Aktarimi
+- [ ] Ekranlar Arasi Veri Aktarimi Lab
+- [ ] Navigation Controller ile Geçislerin Yönetilmesi
+- [ ] Navigation Controller Lab
+- [ ] AutoLayout Code
+- [ ] AutoLayout Code Lab-1
+- [ ] AutoLayout Code Lab-2
+- [ ] Custom Tabbar Controller
+- [ ] Custom Tabbar Lab-1
+- [ ] Custom Tabbar Lab-2
+- [ ] Custom Tabbar Lab-3
+- [ ] Timer
+- [ ] İzinler
+- [ ] Kamera Kullanimi
+- [ ] Kamera izin Kontrol Lab-1
+- [ ] Kamera izin Kontrol Lab-2
+- [ ] Galeri Kullanimi
