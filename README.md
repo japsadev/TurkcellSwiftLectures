@@ -91,31 +91,31 @@ https://gelecegiyazanlar.turkcell.com.tr/konu/swift-ile-ios-programlama
 
 ## Swift ile iOS Programlama 101 
 ### iOS Giris
-- [ ] iOS Giris
-- [ ] iOS Mimarisi
-- [ ] Xcode Projesi Olusturma ve Calistirma
-- [ ] Simulator Olusturma ve Kurulumlari
-- [ ] Xcode Proje Dizini Genel Bakis
+- [x] iOS Giris
+- [x] iOS Mimarisi
+- [x] Xcode Projesi Olusturma ve Calistirma
+- [x] Simulator Olusturma ve Kurulumlari
+- [x] Xcode Proje Dizini Genel Bakis
 ### Widgets
-- [ ] Widgets Giris
-- [ ] Label TextField TextView
-- [ ] Button
-- [ ] Switch Segmented Controller
-- [ ] Slider Stepper
-- [ ] ImageView ScrollView WebView
+- [x] Widgets Giris
+- [x] Label TextField TextView
+- [x] Button
+- [x] Switch Segmented Controller
+- [x] Slider Stepper
+- [x] ImageView ScrollView WebView
 ### Tasarim
-- [ ] Tasarim Giris
-- [ ] Widget Ekleme ve View Katmani
-- [ ] Constraint Kullanimi-1
-- [ ] Constraint Kullanimi-2
-- [ ] Constraint Lab-1
-- [ ] Constraint Lab-2
-- [ ] Coklu Dil Destegi
-- [ ] Assets Kullanimi
-- [ ] Assets Lab
-- [ ] LaunchScreen.storyboard Kullanimi
-- [ ] Custom Tasarim XIB
-- [ ] Ui Debug
+- [x] Tasarim Giris
+- [x] Widget Ekleme ve View Katmani
+- [x] Constraint Kullanimi-1
+- [x] Constraint Kullanimi-2
+- [x] Constraint Lab-1
+- [x] Constraint Lab-2
+- [x] Coklu Dil Destegi
+- [x] Assets Kullanimi
+- [x] Assets Lab
+- [x] LaunchScreen.storyboard Kullanimi
+- [x] Custom Tasarim XIB
+- [x] Ui Debug
 ### Uygulama Calisma Yapısı
 - [ ] Uygulama Calisma Yapisi Giris
 - [ ] View Controller Yasam Döngüsü
