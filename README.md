@@ -29,7 +29,7 @@ https://gelecegiyazanlar.turkcell.com.tr/konu/swift-ile-ios-programlama
 - [x] Break - Continue
 
 
-## Swift 102
+## Swift 201
 ### Collections
 - [x] Collections Giris
 - [x] List Filtreleme
@@ -43,7 +43,7 @@ https://gelecegiyazanlar.turkcell.com.tr/konu/swift-ile-ios-programlama
 - [x] Map ve Reduce Lab
 
 
-## Swift 103
+## Swift 301
 ### Nesne Tabanlı Programlama
 - [x] Nesne Tabanlı Programlama Giris
 - [x] Class Yapisi
@@ -117,40 +117,65 @@ https://gelecegiyazanlar.turkcell.com.tr/konu/swift-ile-ios-programlama
 - [x] Custom Tasarim XIB
 - [x] Ui Debug
 ### Uygulama Calisma Yapısı
-- [ ] Uygulama Calisma Yapisi Giris
-- [ ] View Controller Yasam Döngüsü
-- [ ] Outlet-Action Kavramlar
-- [ ] Segue Kavrami-Tipleri
-- [ ] View Katmani-Segue Kullanimi
+- [X] Uygulama Calisma Yapisi Giris
+- [X] View Controller Yasam Döngüsü
+- [X] Outlet-Action Kavramlar
+- [X] Segue Kavrami-Tipleri
+- [X] View Katmani-Segue Kullanimi
 ### Controllers
-- [ ] Controllers Giris
-- [ ] Tabbar Controller
-- [ ] TableView Controller-CollectionView Controller
-- [ ] Kullanici Etkilesimleri
-- [ ] Kullanic Etkilesimleri Giris
-- [ ] Action Kullanimi
-- [ ] Outlet-Action Lab-1
-- [ ] Outlet-Action Lab-2
-- [ ] Alert Kullanimi
-- [ ] Alert Lab
-- [ ] Cok Ekran ile Calismak
-- [ ] Segue ile Ekran Arasi Gecisler
-- [ ] Identifier ile Ekranlar Arasi Gecis
-- [ ] Segue ile Veri Aktarimi
-- [ ] Identifier ile Veri Aktarimi
-- [ ] Ekranlar Arasi Veri Aktarimi Lab
-- [ ] Navigation Controller ile Geçislerin Yönetilmesi
-- [ ] Navigation Controller Lab
-- [ ] AutoLayout Code
-- [ ] AutoLayout Code Lab-1
-- [ ] AutoLayout Code Lab-2
-- [ ] Custom Tabbar Controller
-- [ ] Custom Tabbar Lab-1
-- [ ] Custom Tabbar Lab-2
-- [ ] Custom Tabbar Lab-3
-- [ ] Timer
-- [ ] İzinler
-- [ ] Kamera Kullanimi
-- [ ] Kamera izin Kontrol Lab-1
-- [ ] Kamera izin Kontrol Lab-2
-- [ ] Galeri Kullanimi
+- [X] Controllers Giris
+- [X] Tabbar Controller
+- [X] TableView Controller-CollectionView Controller
+- [X] Kullanici Etkilesimleri
+- [X] Kullanic Etkilesimleri Giris
+- [X] Action Kullanimi
+- [X] Outlet-Action Lab-1
+- [X] Outlet-Action Lab-2
+- [X] Alert Kullanimi
+- [X] Alert Lab
+- [X] Cok Ekran ile Calismak
+- [X] Segue ile Ekran Arasi Gecisler
+- [X] Identifier ile Ekranlar Arasi Gecis
+- [X] Segue ile Veri Aktarimi
+- [X] Identifier ile Veri Aktarimi
+- [X] Ekranlar Arasi Veri Aktarimi Lab
+- [X] Navigation Controller ile Geçislerin Yönetilmesi
+- [X] Navigation Controller Lab
+- [X] AutoLayout Code
+- [X] AutoLayout Code Lab-1
+- [X] AutoLayout Code Lab-2
+- [X] Custom Tabbar Controller
+- [X] Custom Tabbar Lab-1
+- [X] Custom Tabbar Lab-2
+- [X] Custom Tabbar Lab-3
+- [X] Timer
+- [X] İzinler
+- [X] Kamera Kullanimi
+- [X] Kamera izin Kontrol Lab-1
+- [X] Kamera izin Kontrol Lab-2
+- [X] Galeri Kullanimi
+
+
+## Swift ile iOS Programlama 201
+### Listeleme
+- [ ] Listeleme Giris
+- [ ] PickerView-1
+- [ ] PickerView-2
+- [ ] TableViewController-StandartCell
+- [ ] TableView Custom Tasarim
+- [ ] ViewController TableView Kullanimi
+- [ ] ViewController TableView Lab
+- [ ] Custom Cell Xib
+- [ ] Custom Cell Xib Lab
+- [ ] CollectionView
+- [ ] CollectionView-FlowLayout
+- [ ] CollectionView Lab-1
+- [ ] CollectionView Lab-2
+- [ ] TableView Sayfalama
+- [ ] TableView ile SearchBar Kullanimi
+- [ ] TableView Arama Özel
+- [ ] Bölüm Sonu Lab-1
+- [ ] Bölüm Sonu Lab-2
+- [ ] Bölüm Sonu Lab-3
+
+
